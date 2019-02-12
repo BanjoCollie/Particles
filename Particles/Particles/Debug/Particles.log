@@ -1,0 +1,15 @@
+﻿  Scene.cpp
+c:\users\jacob\source\repos\particles\particles\scene.cpp(74): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jacob\source\repos\particles\particles\scene.cpp(202): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(215): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(285): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(294): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(433): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(434): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(438): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(439): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(440): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(441): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particles\particles\scene.cpp(443): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Particles.vcxproj -> C:\Users\Jacob\source\repos\Particles\Debug\Particles.exe

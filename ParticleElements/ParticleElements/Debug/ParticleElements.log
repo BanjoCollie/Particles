@@ -1,0 +1,41 @@
+﻿  scene.cpp
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(369): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(531): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(537): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(543): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(549): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(555): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(561): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(388): warning C4101: 'rY': unreferenced local variable
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(770): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(771): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(775): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(776): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(777): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(778): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jacob\source\repos\particleelements\particleelements\scene.cpp(780): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ParticleElements.vcxproj -> C:\Users\Jacob\source\repos\ParticleElements\Debug\ParticleElements.exe
